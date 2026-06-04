@@ -1,0 +1,6 @@
+{
+  "name": "GeoBuddy",
+  "description": "GeoBuddy is an all-in-one travel companion that assists in transportation, food, and lodging. Set your budget and location hub, and we will build a premium, coordinated itinerary tailored to you.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
